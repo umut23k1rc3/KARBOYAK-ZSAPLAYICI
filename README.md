@@ -1,112 +1,89 @@
-# KARBOYAK-iZSAPLAYICI
+🌍 KARBOYAK-iZSAPLAYICI
+📌 Proje Fikri:
+Karbon ayak izinin ne olduğunu anlatan, insanların kendi karbon ayak izlerini hesaplayabilecekleri, neden oluştuğunu açıklayan ve nasıl azaltılabileceğini gösteren bir web sitesi yapmak.
 
-## Projemin fikri:
-kARBON AYAK İZİNİN NE OLDOĞUNU,BUNU HESAPLABİLMESİ,NEDEN OLDUĞUNU VE NASIL ÇÖZECEBİLECEK BİR SİTE YAPMAK
+🌱 Karbon Ayak İzi Nedir?
+Karbon ayak izi, birim karbondioksit (CO₂) cinsinden ölçülen, üretilen sera gazı miktarı açısından insan faaliyetlerinin çevreye verdiği zararın ölçüsüdür.
+İki ana parçadan oluşur:
 
-# KARBON AYAK İZİ NEDİR?
-Karbon ayak izi, birim karbondioksit cinsinden ölçülen, üretilen sera gazı miktarı açısından insan faaliyetlerinin çevreye verdiği zararın ölçüsüdür ve iki ana parçadan oluşur: doğrudan (birincil) ayak izi ve dolaylı (ikincil) ayak izi. Birincil ayak izi, evsel enerji tüketimi ve ulaşım (söz gelimi araba ve uçak) dahil olmak üzere fosil yakıtlarının yanmasından ortaya çıkan doğrudan CO2 emisyonlarının, ikincil ayak izi ise kullandığımız ürünlerin tüm yaşamın döngüsünden bu ürünlerin imalatı ve en sonunda bozulmalarıyla ilgili olan dolaylı CO2 emisyonlarının ölçüsüdür.
+Birincil Ayak İzi: Evsel enerji tüketimi ve ulaşım gibi doğrudan CO₂ emisyonları 🚗🏠
 
-# KARBON AYAK İZİ'NİN HESAPLANMASI  NASIL YAPILIR?
-1. VERİ TOPLAMA
-Günlük hayatına dair çeşitli bilgileri toplarsın, örneğin:
+İkincil Ayak İzi: Kullandığımız ürünlerin üretimi ve yaşam döngüsü boyunca oluşan dolaylı CO₂ emisyonları 📦🛒
 
-Ulaşım: Yılda kaç km araba kullanıyorsun? (ve aracın yakıt türü)
+🧮 Karbon Ayak İzi Nasıl Hesaplanır?
+1️⃣ Veri Toplama
+🚗 Ulaşım: Yılda kaç km araba kullanıyorsun? (ve aracın yakıt türü)
 
-Enerji Tüketimi: Evinde yıllık elektrik, doğalgaz, kömür tüketimi ne kadar?
+⚡ Enerji Tüketimi: Yıllık elektrik, doğalgaz, kömür tüketimi.
 
-Yiyecek Tüketimi: Et, süt ürünleri, sebze ağırlıklı mı besleniyorsun?
+🥩 Yiyecek Tüketimi: Et, süt ürünleri, sebze ağırlıklı mı besleniyorsun?
 
-Tüketim Alışkanlıkları: Kullandığın kıyafet, elektronik eşya miktarı vb.
+👕 Tüketim Alışkanlıkları: Kıyafet, elektronik eşya kullanımı.
 
-Atık Yönetimi: Geri dönüşüm yapıyor musun?
+♻️ Atık Yönetimi: Geri dönüşüm yapıyor musun?
 
-2. EMİSYON HESAPLAMA
-Topladığın veriler, belirli emisyon faktörleriyle çarpılır. Bu faktörler, her birim tüketimin atmosfere saldığı ortalama CO₂ miktarını gösterir.
+2️⃣ Emisyon Hesaplama
+1 litre benzin yakıldığında ≈ 2.31 kg CO₂ salınır. ⛽
 
-Örneğin:
+1 kWh elektrik tüketimi ≈ 0.4–0.7 kg CO₂ salımı yapar. ⚡
 
-1 litre benzin yakıldığında ≈ 2.31 kg CO₂ salınır.
+🔥 Karbon Ayak İzi Nedenleri
+⚡ Enerji Tüketimi: Fosil yakıt kullanımı, ısınma, soğutma.
 
-1 kWh elektrik tüketimi ≈ 0.4–0.7 kg CO₂ salımı yapabilir (ülkeye göre değişir).
+🚗 Ulaşım: Benzinli/dizel araçlar, uçak yolculukları, taşımacılık.
 
-# KARBON AYAK İZİ NEDENLERİ:
-1. Enerji Tüketimi
-Fosil yakıt kullanımı (kömür, petrol, doğalgaz) enerji üretiminde CO₂ salımına sebep olur.
+🏭 Sanayi ve Üretim: Çimento, demir-çelik, kimya sanayisi.
 
-Elektrik tüketimi, ısınma ve soğutma sistemleri (klima, kombi) karbon ayak izinin büyük bir bölümünü oluşturur.
+🥩 Tarım ve Gıda: Et ve süt ürünleri üretimi, gübre kullanımı.
 
-2. Ulaşım
-Benzinli, dizel araç kullanımı
+🛒 Tüketim ve Atıklar: Ürün üretimi, taşıma, atık yönetimi.
 
-Uçak yolculukları (uçaklar ciddi miktarda yakıt harcar ve çok yüksek CO₂ salımı yapar)
+🌲 Ormansızlaşma: Ağaçların kesilmesi, karbon emiliminin azalması.
 
-Deniz taşımacılığı ve ağır vasıta taşımacılığı da karbon salınımına katkıda bulunur.
+🛠️ Karbon Ayak İzi Nasıl Azaltılır?
+🔋 Enerji Tüketimini Azaltmak
+A++ sınıfı enerji verimli cihazlar kullan. 🔌
 
-3. Sanayi ve Üretim Faaliyetleri
-Ürünlerin üretim süreçlerinde kullanılan makineler, ham madde işlenmesi ve fabrika çalışmaları ciddi sera gazı emisyonu yaratır.
+Gereksiz lambaları ve cihazları kapat. 💡
 
-Özellikle çimento, demir-çelik, kimya sanayisi yüksek karbon salımı yapar.
+Güneş enerjisi gibi yenilenebilir enerji kaynaklarına yönel. ☀️
 
-4. Tarım ve Gıda Tüketimi
-Et ve süt ürünleri üretimi: Özellikle büyükbaş hayvanlar (inekler) metan gazı (CH₄) salar; metan, CO₂'den çok daha güçlü bir sera gazıdır.
+Evin yalıtımını güçlendir. 🏡
 
-Gübre kullanımı ve tarım makinelerinin yakıt tüketimi de karbon ayak izini artırır.
+🚴‍♂️ Ulaşım Alışkanlıklarını Değiştirmek
+Toplu taşıma, bisiklet veya yürüyüşü tercih et. 🚍🚲
 
-5. Tüketim ve Atıklar
-Satın aldığımız ürünlerin üretim, taşıma ve paketlenme süreçleri CO₂ emisyonu yaratır.
+Elektrikli veya hibrit araçlar kullan. 🚘⚡
 
-Fazla tüketim ve geri dönüşüm yapılmadan atılan atıklar karbon ayak izini büyütür.
+Uçakla seyahati azalt. ✈️
 
-Plastik kullanımının artması da dolaylı karbon salımına neden olur.
+🛍️ Tüketimi Azaltmak ve Bilinçli Alışveriş Yapmak
+Gereksiz tüketimden kaçın. 🙅‍♂️
 
-6. Ormansızlaşma
-Ağaçlar, atmosferdeki karbonu emer. Ormanların kesilmesi bu doğal karbon emilimini azaltır ve karbon salımını artırır.
+Yerel ve mevsiminde üretilen ürünleri tercih et. 🥕
 
-# kARBON AYAK İZİ NASIL AZALTABİLİR?
+Az paketli veya geri dönüştürülebilir ambalajlı ürünler al. 📦♻️
 
-1. Enerji Tüketimini Azaltmak
-Enerji verimli (A++ sınıfı) elektrikli cihazlar kullan.
+🥦 Beslenme Alışkanlıklarını Gözden Geçirmek
+Et ve süt ürünleri tüketimini azalt. 🐄
 
-Gereksiz yanan lambaları ve cihazları kapat.
+Bitki temelli beslenmeyi artır. 🥬
 
-Güneş enerjisi gibi yenilenebilir enerji kaynaklarına yönel.
+Yiyecek israfından kaçın. 🥖
 
-Evin yalıtımını güçlendirerek ısı kaybını önle.
+♻️ Atıkları Azaltmak ve Geri Dönüştürmek
+Kağıt, plastik, cam ve metali geri dönüştür. 🗑️
 
-2. Ulaşım Alışkanlıklarını Değiştirmek
-Toplu taşıma, bisiklet veya yürüyüşü tercih et.
+Kompost yaparak organik atıkları değerlendirmek. 🍂
 
-Araba kullanıyorsan, mümkünse elektrikli veya hibrit araç kullan.
+Tek kullanımlık ürünler yerine kalıcı ürünler kullan. 🥤➡️🚫
 
-Uçakla seyahati azalt veya karbon dengelemesi yapan havayollarını seç.
+🌳 Ağaç Dikmek ve Doğayı Koruma Çalışmalarına Katılmak
+Ağaç dik. 🌱
 
-3. Tüketimi Azaltmak ve Bilinçli Alışveriş Yapmak
-Gereksiz tüketimden kaçın; gerçekten ihtiyaç duyduğun şeyleri satın al.
+Ormanları koru. 🌲
 
-Yerel ve mevsiminde üretilen ürünleri tercih et (taşımadan kaynaklanan karbon emisyonu azalır).
-
-Az paketli veya geri dönüştürülebilir ambalajlı ürünler al.
-
-4. Beslenme Alışkanlıklarını Gözden Geçirmek
-Et ve süt ürünleri tüketimini azalt (özellikle kırmızı etin karbon ayak izi çok yüksektir).
-
-Bitki temelli beslenmeyi artır.
-
-Yiyecek israfından kaçın.
-
-5. Atıkları Azaltmak ve Geri Dönüştürmek
-Geri dönüşüm yap (kağıt, plastik, cam, metal).
-
-Kompost yaparak organik atıkları doğaya geri kazandır.
-
-Tek kullanımlık ürünler yerine yeniden kullanılabilir ürünler tercih et.
-
-6. Ağaç Dikmek ve Doğayı Koruma Çalışmalarına Katılmak
-Ağaç dikimi, atmosferdeki fazla karbonu emer.
-
-Ormanların korunmasına destek ol.
-
-Karbon dengeleme projelerine katkıda bulunabilirsin (bazı projeler uçuş veya diğer etkinlikler için karbon salımını sıfırlamayı amaçlar).
+Karbon dengeleme projelerine destek ver. 🤝
 
 
 
